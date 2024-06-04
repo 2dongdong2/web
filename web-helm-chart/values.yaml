@@ -7,7 +7,7 @@ replicaCounts:
 images:
   loginweb: "654654194175.dkr.ecr.ap-northeast-2.amazonaws.com/loginweb:16"
   boardweb: "654654194175.dkr.ecr.ap-northeast-2.amazonaws.com/boardweb:7"
-  mainweb: "/:"
+  mainweb: "654654194175.dkr.ecr.ap-northeast-2.amazonaws.com/mainweb:16"
   memberweb: "654654194175.dkr.ecr.ap-northeast-2.amazonaws.com/memberweb:2"
 
 hpa:
